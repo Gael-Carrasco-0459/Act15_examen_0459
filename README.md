@@ -10,4 +10,9 @@ paginas web
 
 paginas android
 
+<img width="582" height="852" alt="image" src="https://github.com/user-attachments/assets/1e51713b-60db-414e-9520-9a9289ecd406" />
+<img width="578" height="852" alt="image" src="https://github.com/user-attachments/assets/4742d3e7-c7be-4527-8e52-b32d51020749" />
+<img width="585" height="867" alt="image" src="https://github.com/user-attachments/assets/012ca409-cd60-4298-9c99-3671696c741c" />
+
+
 
